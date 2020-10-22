@@ -1,2 +1,2 @@
 # udacity-nanodegree-first-project
-dynamical web navigate the section you want when you click on the list 
+dynamical web navigate to the section you want when you click on the list 
